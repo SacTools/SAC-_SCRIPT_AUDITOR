@@ -219,6 +219,6 @@ Feel free to modify the tool as per your needs.
 
 If this tool has been useful, if there are bug reports and any improvements needed. Please leave a feedback on **sactools.support@gmail.com** 
 
-If you have suggestions of any repetative tasks in Nuke which need automation please let me know.
+If you have suggestions of any repetitive tasks in Nuke which need automation please let me know.
 
 **HAPPY COMPING** 
